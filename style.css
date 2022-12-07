@@ -36,7 +36,7 @@ header {
 }
 
 .search::placeholder {
-  color: #354187;
+  color: tomato;
 }
 
 .search:focus {
@@ -47,6 +47,7 @@ header {
 main {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .movie {
